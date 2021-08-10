@@ -4,13 +4,18 @@
 ![image](contract_call.png)
 
 2. The transaction hash from the console output.
-`0x1256b4dd706ae0fef07cab93fdc2e15462be37195920ee411fc1f897663e5afc`
+```
+0x1256b4dd706ae0fef07cab93fdc2e15462be37195920ee411fc1f897663e5afc
+```
 
 3. The contract address that you called.
-`0x5528a7Eb2A107C41C1f40D0c73F6f8CBC76CA0CC`
+```
+0x5528a7Eb2A107C41C1f40D0c73F6f8CBC76CA0CC
+```
 
 4. The ABI for contract you made a call on.
-`[
+```
+[
     {
       "inputs": [],
       "stateMutability": "payable",
@@ -42,4 +47,5 @@
       "stateMutability": "view",
       "type": "function"
     }
-  ]`
+]
+```
