@@ -6,8 +6,9 @@
 ![image](godwoken_dapp_3.png)
 ![image](godwoken_dapp_4.png)
 
-2. Link to the GitHub repository with your application which has been ported to Godwoken. 
-https://github.com/chaitanyasjoshi/social-network-dapp-polyjuice
+2. Link to the GitHub repository with your application which has been ported to Godwoken.
+
+    https://github.com/chaitanyasjoshi/social-network-dapp-polyjuice
 
 3. Transaction hash of the deployment transaction.
 ```
