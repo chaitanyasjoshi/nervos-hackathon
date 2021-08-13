@@ -1,4 +1,4 @@
-# Nervos-Hakathon-Task-7
+# Nervos-Hakathon-Task-8
 
 1. A screenshot or video of your EVM application on Layer 2 with Force Bridge support.
 ![image](force_bridge_dapp_1.png)
